@@ -5,7 +5,7 @@
 	<groupId>com.makotojava.learn</groupId>
 	<artifactId>SpringBootDemo</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>SpringBootDemo</name>
 	<url>http://maven.apache.org</url>
